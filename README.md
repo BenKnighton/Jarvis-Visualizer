@@ -1,6 +1,7 @@
-# Jarvis-Visualizer
- Visualizer for my second A.I assistant called Jarvis, named after the famous A.I from Iron man
- 
+# Jarvis visualiser
+
+Visualizer for my second A.I assistant called Jarvis, named after the famous A.I from “Iron man”. 
+In the films, J.A.R.V.I.S stands for: Just • A • Rather • Very • Intelligent • System
  
 ![Jarvis Rotating 2](https://github.com/BenKnighton/Jarvis-Visualizer/assets/131706686/a552b0ff-4b29-40b8-a5f9-b76c19c867a7)
 
